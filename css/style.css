@@ -1,0 +1,44 @@
+
+.header{
+	height: 100px;
+	background-color:  yellow;
+}
+.wrapper{
+	overflow: hidden;
+}
+	
+.contact{
+	width: 60%;
+	height: 150px;
+	background-color: blue;
+	float: left;
+}
+
+.blog{
+	width: 40%;
+	height: 150px;
+	background-color: purple ;
+	float: right;
+}
+.container{
+	overflow: hidden;	
+}
+.section{
+	width: 33.3%;
+	height: 150px;
+	float: left;
+}
+.one{
+	background-color: gray;
+}
+.two{
+	background-color: silver;
+}
+.three{
+	background-color: aquamarine;
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
